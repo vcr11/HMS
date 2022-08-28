@@ -24,10 +24,9 @@ A filter is also provided which gives you the option to fill fields(amenities) a
 ## Project Setup Process :
 #Step 1:
     Please install any Python Environment or IDE such as Anaconda...
-    To run :
     
 #Step 2:
     pip install tk
 
 #Step 3:
-Run \Project>python main.py
+Run: \Project>python main.py
